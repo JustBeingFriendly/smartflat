@@ -1,0 +1,68 @@
+<Shell xmlns="http://www.eclipse.org/xwt/presentation" xmlns:x="http://www.eclipse.org/xwt" x:Class="XWTTrial1" text="XWT Application">
+	<Shell.layout>
+		<GridLayout numColumns="9"/>
+	</Shell.layout>
+	<Button text="Double click me!"/>
+	<Label/>
+	<CoolBar x:Style="FLAT"/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Button text="New Button"/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Label/>
+	<Spinner x:Style="BORDER"/>
+</Shell>
